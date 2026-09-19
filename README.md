@@ -1,4 +1,4 @@
 # thuberajwardhan-demo
 This is my first git repository
 <br>
-Author - Rajwardhan Thube
+Author - Rajwardhan Thube (Founder)
